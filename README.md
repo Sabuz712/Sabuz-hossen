@@ -2,10 +2,10 @@
 ### Hi there 👋, I'm Muhammud Sabuz
 #### I'm web developer
 
+I'm web developer now at a time iam learning progrmming lanugase. so Everyday improve my skill. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabuz-hossen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sssss/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sabuz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ssss)  
 
-I'm web developer now at a time iam learning progrmming lanugase. so Everyday improve my skill. 
 
 Skills:   REACT / JS / HTML / CSS
 
