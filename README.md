@@ -8,7 +8,7 @@ A full time content creator & web devloper
 ![YtYoutubeGIF]()
 ![TiredSleepGIF](https://facbook)
 
-![DownsignLinkedInGIF](https://github.com/Sabuz712/Sabuz-hossen/assets/169863395/652619fa-364f-4514-815f-dd5efcbc2ef1)
+![DownsignLinkedInGIF]()
 
 👩‍🎓 About Me 
 
